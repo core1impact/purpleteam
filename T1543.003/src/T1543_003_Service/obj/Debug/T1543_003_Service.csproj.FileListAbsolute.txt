@@ -1,0 +1,24 @@
+C:\Users\pentest\source\repos\T1543_003_Service\T1543_003_Service\bin\Debug\T1543_003_Service.exe.config
+C:\Users\pentest\source\repos\T1543_003_Service\T1543_003_Service\bin\Debug\T1543_003_Service.exe
+C:\Users\pentest\source\repos\T1543_003_Service\T1543_003_Service\bin\Debug\T1543_003_Service.pdb
+C:\Users\pentest\source\repos\T1543_003_Service\T1543_003_Service\obj\Debug\T1543_003_Service.csproj.AssemblyReference.cache
+C:\Users\pentest\source\repos\T1543_003_Service\T1543_003_Service\obj\Debug\T1543_003_Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\pentest\source\repos\T1543_003_Service\T1543_003_Service\obj\Debug\T1543_003_Service.csproj.CoreCompileInputs.cache
+C:\Users\pentest\source\repos\T1543_003_Service\T1543_003_Service\obj\Debug\T1543_003_Service.exe
+C:\Users\pentest\source\repos\T1543_003_Service\T1543_003_Service\obj\Debug\T1543_003_Service.pdb
+C:\Users\pentest\dsec\vtbcapital\T1543_003\T1543_003_Service\bin\Debug\T1543_003_Service.exe.config
+C:\Users\pentest\dsec\vtbcapital\T1543_003\T1543_003_Service\bin\Debug\T1543_003_Service.exe
+C:\Users\pentest\dsec\vtbcapital\T1543_003\T1543_003_Service\bin\Debug\T1543_003_Service.pdb
+C:\Users\pentest\dsec\vtbcapital\T1543_003\T1543_003_Service\obj\Debug\T1543_003_Service.csproj.AssemblyReference.cache
+C:\Users\pentest\dsec\vtbcapital\T1543_003\T1543_003_Service\obj\Debug\T1543_003_Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\pentest\dsec\vtbcapital\T1543_003\T1543_003_Service\obj\Debug\T1543_003_Service.csproj.CoreCompileInputs.cache
+C:\Users\pentest\dsec\vtbcapital\T1543_003\T1543_003_Service\obj\Debug\T1543_003_Service.exe
+C:\Users\pentest\dsec\vtbcapital\T1543_003\T1543_003_Service\obj\Debug\T1543_003_Service.pdb
+\\vmware-host\Shared Folders\purple\purple_team\T1543_003\src\T1543_003_Service\bin\Debug\T1543_003_Service.exe.config
+\\vmware-host\Shared Folders\purple\purple_team\T1543_003\src\T1543_003_Service\bin\Debug\T1543_003_Service.exe
+\\vmware-host\Shared Folders\purple\purple_team\T1543_003\src\T1543_003_Service\bin\Debug\T1543_003_Service.pdb
+\\vmware-host\Shared Folders\purple\purple_team\T1543_003\src\T1543_003_Service\obj\Debug\T1543_003_Service.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\purple\purple_team\T1543_003\src\T1543_003_Service\obj\Debug\T1543_003_Service.csproj.SuggestedBindingRedirects.cache
+\\vmware-host\Shared Folders\purple\purple_team\T1543_003\src\T1543_003_Service\obj\Debug\T1543_003_Service.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\purple\purple_team\T1543_003\src\T1543_003_Service\obj\Debug\T1543_003_Service.exe
+\\vmware-host\Shared Folders\purple\purple_team\T1543_003\src\T1543_003_Service\obj\Debug\T1543_003_Service.pdb

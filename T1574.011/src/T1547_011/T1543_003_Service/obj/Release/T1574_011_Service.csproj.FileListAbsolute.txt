@@ -1,0 +1,8 @@
+Z:\purple\purple_team\T1574.011\src\T1547_011\T1543_003_Service\bin\Release\T1543_003_Service.exe.config
+Z:\purple\purple_team\T1574.011\src\T1547_011\T1543_003_Service\bin\Release\T1543_003_Service.exe
+Z:\purple\purple_team\T1574.011\src\T1547_011\T1543_003_Service\bin\Release\T1543_003_Service.pdb
+Z:\purple\purple_team\T1574.011\src\T1547_011\T1543_003_Service\obj\Release\T1574_011_Service.csproj.AssemblyReference.cache
+Z:\purple\purple_team\T1574.011\src\T1547_011\T1543_003_Service\obj\Release\T1574_011_Service.csproj.SuggestedBindingRedirects.cache
+Z:\purple\purple_team\T1574.011\src\T1547_011\T1543_003_Service\obj\Release\T1574_011_Service.csproj.CoreCompileInputs.cache
+Z:\purple\purple_team\T1574.011\src\T1547_011\T1543_003_Service\obj\Release\T1543_003_Service.exe
+Z:\purple\purple_team\T1574.011\src\T1547_011\T1543_003_Service\obj\Release\T1543_003_Service.pdb

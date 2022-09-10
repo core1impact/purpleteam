@@ -1,0 +1,16 @@
+C:\Users\pentest\dsec\vtbcapital\T1574.011\src\T1547_011\T1543_003_Service\bin\Debug\T1543_003_Service.exe.config
+C:\Users\pentest\dsec\vtbcapital\T1574.011\src\T1547_011\T1543_003_Service\bin\Debug\T1543_003_Service.exe
+C:\Users\pentest\dsec\vtbcapital\T1574.011\src\T1547_011\T1543_003_Service\bin\Debug\T1543_003_Service.pdb
+C:\Users\pentest\dsec\vtbcapital\T1574.011\src\T1547_011\T1543_003_Service\obj\Debug\T1574_011_Service.csproj.AssemblyReference.cache
+C:\Users\pentest\dsec\vtbcapital\T1574.011\src\T1547_011\T1543_003_Service\obj\Debug\T1574_011_Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\pentest\dsec\vtbcapital\T1574.011\src\T1547_011\T1543_003_Service\obj\Debug\T1574_011_Service.csproj.CoreCompileInputs.cache
+C:\Users\pentest\dsec\vtbcapital\T1574.011\src\T1547_011\T1543_003_Service\obj\Debug\T1543_003_Service.exe
+C:\Users\pentest\dsec\vtbcapital\T1574.011\src\T1547_011\T1543_003_Service\obj\Debug\T1543_003_Service.pdb
+Z:\purple\purple_team\T1574.011\src\T1547_011\T1543_003_Service\bin\Debug\T1543_003_Service.exe.config
+Z:\purple\purple_team\T1574.011\src\T1547_011\T1543_003_Service\bin\Debug\T1543_003_Service.exe
+Z:\purple\purple_team\T1574.011\src\T1547_011\T1543_003_Service\bin\Debug\T1543_003_Service.pdb
+Z:\purple\purple_team\T1574.011\src\T1547_011\T1543_003_Service\obj\Debug\T1574_011_Service.csproj.AssemblyReference.cache
+Z:\purple\purple_team\T1574.011\src\T1547_011\T1543_003_Service\obj\Debug\T1574_011_Service.csproj.SuggestedBindingRedirects.cache
+Z:\purple\purple_team\T1574.011\src\T1547_011\T1543_003_Service\obj\Debug\T1574_011_Service.csproj.CoreCompileInputs.cache
+Z:\purple\purple_team\T1574.011\src\T1547_011\T1543_003_Service\obj\Debug\T1543_003_Service.exe
+Z:\purple\purple_team\T1574.011\src\T1547_011\T1543_003_Service\obj\Debug\T1543_003_Service.pdb

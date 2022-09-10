@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UU0cWoAOApvv30vnJJ1S3FxS6k/Hq5JQtBXIjwJbfVtknsNso46CykpmUl6ITTeZRCyk5oKD1VQv+e2Fusf55w==",
+  "success": true,
+  "projectFilePath": "C:\\Payload\\payloads\\T1547.002\\install\\install.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pentest\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.2\\microsoft.netcore.app.crossgen2.win-x64.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Payload\payloads\T1547.002\install\bin\Debug\net6.0\install.exe
+C:\Payload\payloads\T1547.002\install\bin\Debug\net6.0\install.deps.json
+C:\Payload\payloads\T1547.002\install\bin\Debug\net6.0\install.runtimeconfig.json
+C:\Payload\payloads\T1547.002\install\bin\Debug\net6.0\install.dll
+C:\Payload\payloads\T1547.002\install\bin\Debug\net6.0\install.pdb
+C:\Payload\payloads\T1547.002\install\obj\Debug\net6.0\install.csproj.AssemblyReference.cache
+C:\Payload\payloads\T1547.002\install\obj\Debug\net6.0\install.GeneratedMSBuildEditorConfig.editorconfig
+C:\Payload\payloads\T1547.002\install\obj\Debug\net6.0\install.AssemblyInfoInputs.cache
+C:\Payload\payloads\T1547.002\install\obj\Debug\net6.0\install.AssemblyInfo.cs
+C:\Payload\payloads\T1547.002\install\obj\Debug\net6.0\install.csproj.CoreCompileInputs.cache
+C:\Payload\payloads\T1547.002\install\obj\Debug\net6.0\install.dll
+C:\Payload\payloads\T1547.002\install\obj\Debug\net6.0\refint\install.dll
+C:\Payload\payloads\T1547.002\install\obj\Debug\net6.0\install.pdb
+C:\Payload\payloads\T1547.002\install\obj\Debug\net6.0\install.genruntimeconfig.cache
+C:\Payload\payloads\T1547.002\install\obj\Debug\net6.0\ref\install.dll

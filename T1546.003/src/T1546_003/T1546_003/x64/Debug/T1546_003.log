@@ -1,0 +1,3 @@
+﻿  T1546_003.cpp
+LINK : warning LNK4076: invalid incremental status file 'x64\Debug\T1546_003.ilk' (which will be deleted); linking nonincrementally
+  T1546_003.vcxproj -> Z:\purple\purple_team\T1546.003\src\T1546_003\x64\Debug\T1546_003.exe

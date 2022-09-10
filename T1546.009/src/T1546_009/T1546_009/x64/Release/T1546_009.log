@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  pch.cpp
+  dllmain.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  Finished generating code
+  All 160 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  T1546_009.vcxproj -> Z:\purple\purple_team\T1546.009\bin\T1546_009.dll
